@@ -6,7 +6,7 @@ class Config:
                 "host" : "localhost",
                 "database" : "SRAG2020",
                 "user" : "postgres",
-                "password" : "ferdu123"
+                "password" : "dudu123"
         }
 class Connection(Config):
     def __init__(self):
