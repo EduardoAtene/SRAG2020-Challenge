@@ -1,4 +1,4 @@
-# SRAG2021-Challenge
+SRAG2020-Challenge
 
 Nome dos integrantes:
 - Eduardo Atene Silva
@@ -7,7 +7,7 @@ Nome dos integrantes:
 
 LINK Gravação	: https://drive.google.com/file/d/15qkQxkk3GQTCliMWOBbV5BC-inIonP7A/view?usp=sharing
 LINK GitHub	: https://github.com/EduardoAtene/SRAG2020-Challenge.git ( o csv está .rar)
-LINK Arquivos	: https://drive.google.com/drive/folders/1qIViGEceCfEZvEB9dBiEc5eP1Oj99FSW?usp=sharing
+LINK Arquivos	:
 
 Importação da biblioteca psycopg2:
 1- Usando Prompt de Comando
